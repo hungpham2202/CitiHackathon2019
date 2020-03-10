@@ -1,0 +1,11 @@
+.login-bg {
+    background-image: url('../assets/citiwallpaper.jpg');
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.login-bg-top {
+    background-image: url('../assets/citiwallpaper.jpg');
+    background-size: cover;
+    background-position: center top;
+}
